@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab 3 - Abubaker 000857347</string>
+    <string name="locked_message">Locked</string>
+    
+    <string name="password">123abc</string>
+    <string  name="secret_data">This app:123abc\nGmail: hella!gmail\nNetflix: myNetFlixPWD%iD\nBank: makemoneyfast!</string>
+    <string name="incorrect_password">Incorrect Password! Try again.</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">A3 - Abubaker 000857347</string>
+    <string name="title_activity_main">A3 - Abubaker 000857347</string>
+    <string name="title_activity_main2">Science Fair Projects</string>
+    <string name="hint_year">Enter Year</string>
+    <string name="hint_description">Search Term</string>
+    <string name="button_search">Search</string>
+    <string name="button_help">Help</string>
+    <string name="label_year">Year:</string>
+    <string name="label_title">Title:</string>
+    <string name="label_students">Name:</string>
+    <string name="title_project_detail">A3 - Abubaker 000857347</string>
+    <string name="label_school">School:</string>
+    <string name="no_image_available">No image available</string>
+    <string name="help_text">Science Fair Project Browser\n\nSearch for projects by year and/or description keywords.\n\nClick on a project to view details.\n\nImages will display if available.</string>
+</resources>
